@@ -1,0 +1,5 @@
+model cnn type EfficientNetB3
+entrainner sur une BDD TCGA / REINHARD de 40 patients (26004 tuiles)
+prediction : Normal vs Tumor
+Global average pooling : 1535 variable
+
