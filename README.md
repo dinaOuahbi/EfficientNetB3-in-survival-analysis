@@ -6,3 +6,8 @@ Entrainement a été effectuer sur une base de données composée uniquement de 
 
 ![Image of aciduino on protoboard](https://github.com/dinaOuahbi/EfficientNetB3-in-survival-analysis/blob/main/annotation_example.png)
 ![Image of aciduino on protoboard](https://github.com/dinaOuahbi/EfficientNetB3-in-survival-analysis/blob/main/annotation_example1.png)
+
+
+# survival analysis result : COX PH / train maxstat 
+![Image of aciduino on protoboard](https://github.com/dinaOuahbi/EfficientNetB3-in-survival-analysis/blob/main/km_train_b3.png)
+![Image of aciduino on protoboard](https://github.com/dinaOuahbi/EfficientNetB3-in-survival-analysis/blob/main/km_test_b3.png)
