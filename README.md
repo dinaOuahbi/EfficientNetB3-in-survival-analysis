@@ -5,4 +5,4 @@ Entrainement a été effectuer sur une base de données composée uniquement de 
 
 
 ![Image of aciduino on protoboard](https://github.com/dinaOuahbi/EfficientNetB3-in-survival-analysis/blob/main/annotation_example.png)
-![Image of aciduino on protoboard]()
+![Image of aciduino on protoboard](https://github.com/dinaOuahbi/EfficientNetB3-in-survival-analysis/blob/main/annotation_example1.png)
