@@ -21,7 +21,7 @@ We applied **EfficientNet** to classify tissue regions and predict patient progn
   
 
 ### Link to the DenseNet Version  
-This methodology follows the same approach as our previous study using **DenseNet**. For more details on the original implementation, refer to: [Repository Link to DenseNet Version]  
+This methodology follows the same approach as our previous study using **DenseNet**. For more details on the original implementation, refer to: [https://github.com/dinaOuahbi/PDAC-DeepLearning-Survival-Prediction]  
 
 Our findings suggest that deep learning can assist in predicting PDAC prognosis and improving treatment decisions.
 
